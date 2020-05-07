@@ -22,7 +22,7 @@
     "@types/passport": "^1.0.0",
     "@types/passport-jwt": "^3.0.1",
     "@types/passport-local": "^1.0.33",
-    "@types/uuid": "^3.4.4",
+    "@types/uuid": "^7.0.3",
     "bcrypt-nodejs": "0.0.3",
     "compression": "^1.7.3",
     "cors": "^2.8.5",
